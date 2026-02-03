@@ -1,6 +1,6 @@
 Zegen Mobile API Project - Pre-Test PKL
 
-Proyek ini dibuat untuk memenuhi kriteria seleksi internship di Zegen. Aplikasi ini mendemonstrasikan integrasi API publik.
+Proyek ini dibuat untuk memenuhi kriteria PKL di Zegen. Aplikasi ini mendemonstrasikan integrasi API publik.
 
 Fitur
 
